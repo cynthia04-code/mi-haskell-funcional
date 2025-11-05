@@ -4,7 +4,7 @@
 
 # Autora: Cynthia Isauro Trinidad
 
-# Repositorio: [https://github.com/tuusuario/programa-haskell-funcional](https://github.com/tuusuario/programa-haskell-funcional)
+# Repositorio: https://github.com/tuusuario/programa-haskell-funcional
 
 # PARA PROBAR EL CÓDIGO:
 jdoodle.com/execute-haskell-online
@@ -15,6 +15,6 @@ jdoodle.com/execute-haskell-online
 Las funciones son valores normales, puedes pasar funcines como paramétros y tiene verificación de tipo automática.
 
 # En otros lenguajes es mas dificl ya que:
-java necesita crear interfaces complicadas 
-python no verifica lso tipos de las funciones 
+java necesita crear interfaces complicadas,  
+python no verifica lso tipos de las funciones y
 c++ la sintaxis es compleja
