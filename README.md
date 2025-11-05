@@ -19,6 +19,7 @@ python no verifica los tipos de las funciones
 c++ la sintaxis es compleja
 
 Lenguaje Funcional:
+
 Las funciones son ciudadanos de primera clase, se evitan los efectos secundarios y datos mutables
 El código se escribe como composición de funciones y se usa evaluación de expresiones en lugar de ejecución de comandos
 
