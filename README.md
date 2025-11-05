@@ -6,7 +6,7 @@ Autora: Cynthia Isauro Trinidad
 
 Repositorio: https://github.com/tuusuario/programa-haskell-funcional
 
-PARA PROBAR EL CÓDIGO:https://www.jdoodle.com/execute-haskell-online
+PARA PROBAR EL CÓDIGO: https://www.jdoodle.com/execute-haskell-online
 
 ¿Por qué solo funciona bien en Haskell?
 
@@ -15,5 +15,5 @@ Las funciones son valores normales, puedes pasar funcines como paramétros y tie
 
 En otros lenguajes es mas dificl ya que:
 java necesita crear interfaces complicadas,  
-python no verifica lso tipos de las funciones y
+python no verifica los tipos de las funciones 
 c++ la sintaxis es compleja
