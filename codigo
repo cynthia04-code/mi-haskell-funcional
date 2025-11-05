@@ -1,6 +1,7 @@
 -- Mi proyecto funcional en Haskell
 -- Autor : Cynthia Isauro Trinidad
 
+
 module Main where
 
 -- Función que aplica otra función a cada elemento de una lista
