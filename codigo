@@ -1,0 +1,26 @@
+-- Mi proyecto funcional en Haskell
+-- Autor : Cynthia Isauro Trinidad
+
+module Main where
+
+-- Función que aplica otra función a cada elemento de una lista
+aplicarFuncion :: (a -> b) -> [a] -> [b]
+aplicarFuncion _ [] = []  -- Si la lista está vacía, devuelve lista vacía
+aplicarFuncion f (x:xs) = f x : aplicarFuncion f xs
+-- Aplica f al primer elemento y sigue con el resto
+
+-- Función que duplica un número
+duplicar x = x * 2
+
+-- Función que verifica si un número es par
+esPar x = x `mod` 2 == 0
+
+-- Programa principal
+main = do
+    let numeros = [1,2,3,4,5,6,7,8,9,10]
+  
+    putStrLn "=== RESULTADOS ==="
+    putStrLn $ "Números: " ++ show numeros
+    putStrLn $ "Duplicados: " ++ show (aplicarFuncion duplicar numeros)
+    putStrLn $ "Pares: " ++ show (filter esPar numeros)
+  
