@@ -6,10 +6,10 @@
 
 # Repositorio: [https://github.com/tuusuario/programa-haskell-funcional](https://github.com/tuusuario/programa-haskell-funcional)
 
-## PARA PROBAR EL CÓDIGO:
+# PARA PROBAR EL CÓDIGO:
 jdoodle.com/execute-haskell-online
 
-### ¿Por qué solo funciona bien en Haskell?
+# ¿Por qué solo funciona bien en Haskell?
 
 # En haskel funciona porque: 
 Las funciones son valores normales, puedes pasar funcines como paramétros y tiene verificación de tipo automática.
