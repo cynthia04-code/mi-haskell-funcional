@@ -2,7 +2,7 @@ Programa Funcional en Haskell
 
 Demostración de Funciones como Parámetros
 
-Autora: Cynthia Isauro Trinidad
+Autora: Cynthia Isauro Trinidad Cynthia
 
 Repositorio: https://github.com/tuusuario/programa-haskell-funcional
 
