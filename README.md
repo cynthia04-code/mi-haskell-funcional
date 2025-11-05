@@ -6,8 +6,7 @@
 
 # Repositorio: https://github.com/tuusuario/programa-haskell-funcional
 
-# PARA PROBAR EL CÓDIGO:
-jdoodle.com/execute-haskell-online
+# PARA PROBAR EL CÓDIGO:https://www.jdoodle.com/execute-haskell-online
 
 # ¿Por qué solo funciona bien en Haskell?
 
