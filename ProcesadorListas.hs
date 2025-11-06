@@ -1,5 +1,7 @@
 -- Mi proyecto funcional en Haskell
 -- Autor : Cynthia Isauro Trinidad
+-- Fecha: 06/11/25
+-- Lenguaje de programación: Haskell
 
 
 module Main where
